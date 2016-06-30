@@ -60,7 +60,7 @@ How reality seems to be. 2A is about how my mind and senses seem to work, 2B is 
 #### 2A Perceptions: Senses
 Personal mental and physical abilities, constraints, and biases.
 
-- Perception/sensation is the signal processing
+- Perception/sensation is signal processing.
 - Free will is an illusion and pointless to keep.
 - Altruism is an illusion.
 - I have and am building a model of reality.
