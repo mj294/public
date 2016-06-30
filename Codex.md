@@ -1,5 +1,4 @@
-# Codex Vitae 
-(In Latin, 'V's are prounced as 'W's, unless they're being used as vowels in which case they're 'U's)
+# Codex Vitae ##(In Latin, 'V's are prounced as 'W's, unless they're being used as vowels in which case they're 'U's)
 
 #### Instructions
 
