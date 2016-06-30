@@ -76,7 +76,7 @@ Personal mental and physical abilities, constraints, and biases.
 - I make guesses.
 - My guesses are always right, although I don't always tell you my true guesses.
 - I don't remember my wrong guesses because they're wrong and not my true guesses.
-- My skills are what make me succeed.
+- Success is because of my skills.
 
 #### 2B Perceptions: Supersenses
 My take on the spiritual and supernatural.
