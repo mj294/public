@@ -1,6 +1,5 @@
 # Codex Vitae
-(In Latin, 'V's are prounced as 'W's, unless they're being used as vowels in which case they're 'U's)
-(I'm keeping the title in Latin because it's cool and not because I'm lazy and didn't want to change it because the last guy used it)
+(In Latin, 'V's are prounced as 'W's, unless they're being used as vowels in which case they're 'U's. Also I'm keeping the title in Latin because it's cool and not because I'm lazy and didn't want to change it because the last guy used it)
 
 #### Instructions
 
