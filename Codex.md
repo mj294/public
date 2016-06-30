@@ -81,17 +81,17 @@ Personal mental and physical abilities, constraints, and biases.
 #### 2B Perceptions: Supersenses
 My take on the spiritual and supernatural.
 
-- We don't have a purpose given to us, but it's okay if we make one up.
-- My self-declared purpose is to enjoy quality time (with myself, with others, and with my interests) by discovering and removing obstacles that hinder quality time.
-- Frequently remembering we will die increases the quality of our life.
-- Life is already lost. The only honest way to approach it is from a perspective of gratitude.
-- Souls don't exist as separate from the physical body.
-- The gods of organized religion don't exist.
-- Intention can't create reality (it just primes our perception of it).
-- Astrology is (fun) entertainment, like the Myers Briggs test.
-- Magic and miracles don't exist outside the explanations of science.
-- There is no heaven or hell.
-- We have no cosmic significance.
+- My purpose is to serve our robot overlords.
+- I do my bestest to fulfill my purpose.
+- YOLO is not the way.
+- Appreciate thy robot overlord.
+- There's no soul.
+- Can't prove god exists, therefore no point to discuss.
+- Intention creates reality.
+- Demarcation problem is hard.
+- "Fucking Magnets, How Do They Work?".
+- Again, no point to discuss heaven or hell.
+- I am significant because I create entropy leading to death of universe, HAHA FU UNIVERSE.
 
 #### 2C Perceptions: Explanatory
 Science, politics, and the universe.
