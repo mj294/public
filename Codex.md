@@ -51,7 +51,7 @@ Beliefs about beliefs.
 - It's purpose is to capture my beliefs about my reality.
 - This document is always incomplete and out of date.
 - Almost all of these beliefs will be proven wrong.
-- I’m not open to changing my mind at any time about any belief by evidence, persuasion, whimsy, or chance. My opinions are just better than yours. 
+- I’m not open to changing my mind. My opinions are just better than yours. 
 - I believe beliefs are best categorized into four types: beliefs about beliefs (metabeliefs), beliefs about perceptions (how reality seems to be), beliefs about the meaning of reality (opinions about how myself and others should approach life), and beliefs about the future (predictions about how things will be in the future).
 
 ### Type 2: Perceptions
