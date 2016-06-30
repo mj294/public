@@ -3,11 +3,11 @@
 #### Instructions
 
 - *If you’re a first time reader:* read the [Glossary](#glossary) for a general intro to my favorite ideas, starting with [What is this?](#what-is-this), then come back and read through the [Beliefs](#beliefs) that seem interesting to you. 
-- *If you're a returning reader:* check the [Changelog](https://github.com/busterbenson/public/commits/master/Codex.md) for updates since you last visited.
+- *If you're a returning reader:* check the changelog for updates since you last visited.
 - *If you’re Buster:*
      1. As often as you can: re-read your [Type 3 beliefs](#type-3-opinions) (opinions).
      2. At the beginning of every month, review the whole document, make any necessary edits, and write a new monthly report.
-     3. At the beginning of every year archive the document. Here's [2012](https://github.com/busterbenson/public/blob/master/Codex2012.md), [2013](https://github.com/busterbenson/public/blob/master/Codex2013.md), [2014](https://github.com/busterbenson/public/blob/master/Codex2014.md), [2015](https://github.com/busterbenson/public/blob/master/Codex2015.md).
+     3. At the beginning of every year archive the document.
      3. Around your birthday every year, write a new yearly report.
 
 
@@ -47,11 +47,11 @@
 ### Type 1: Metabeliefs
 Beliefs about beliefs.
 
-- Making and maintaining this document is useful and fun.
-- It's purpose is to capture my beliefs about the universe.
+- Making and maintaining this document is useless but fun.
+- It's purpose is to capture my beliefs about my reality.
 - This document is always incomplete and out of date.
-- Some of these beliefs will be proven wrong.
-- I’m open to changing my mind at any time about any belief by evidence, persuasion, whimsy, or chance. 
+- Almost all of these beliefs will be proven wrong.
+- I’m not open to changing my mind at any time about any belief by evidence, persuasion, whimsy, or chance. My opinions are just better than yours. 
 - I believe beliefs are best categorized into four types: beliefs about beliefs (metabeliefs), beliefs about perceptions (how reality seems to be), beliefs about the meaning of reality (opinions about how myself and others should approach life), and beliefs about the future (predictions about how things will be in the future).
 
 ### Type 2: Perceptions
@@ -60,23 +60,23 @@ How reality seems to be. 2A is about how my mind and senses seem to work, 2B is 
 #### 2A Perceptions: Senses
 Personal mental and physical abilities, constraints, and biases.
 
-- Perception/sensation is the awareness of things changing. We can't perceive or sense things that aren't changing. 
-- Free will is mostly an illusion, but a nice one to keep.
-- Pure altruism is an illusion.
-- We are all building an incomplete model of the universe in our heads and usually operate under the assumption that this model is the real universe (it’s just easier that way).
-- Our mental model of the universe evolved so we could better predict and act on long-term threats and opportunities. 
-- The best way for our brains to model predictions is to create stories.
-- Consciousness is a stream of observer moments. 
-- Each observer moment is a static model of the universe captured in freeze frame, with a frozen picture of the past, present, future, and every concept. It gets updated anew each moment, along with a fading memory of past moments.
-- Consciousness is the sensation of our mental model of the universe constantly changing itself to integrate new information.
-- Consciousness evolved to allow our mental model of the universe to examine, repair, and improve itself.
-- Playing lots of games (of any kind: video, board, card, other) will make us build more accurate models of the universe than people who don’t.
-- We can change our behavior and habits but it requires a ridiculous amount of energy.
-- Most of the time we don’t change ourselves, but are rather changed by other things. That doesn’t mean we can’t tell a story about how we changed ourselves, and believe it.
-- We create mental heuristics to reduce the amount of energy to retrieve, sort, and select from lists of likely possibilities.
-- The biproduct of mental heuristics is that we are biased at all times in proportion to the number of heuristics we use.
-- We tend to favor the beautiful, the reaffirming, and the expected.
-- We tend to attribute too much credit to success (and under-credit luck).
+- Perception/sensation is the signal processing
+- Free will is an illusion and pointless to keep.
+- Altruism is an illusion.
+- I have and am building a model of reality.
+- My model changes because gotta keep things interesting. 
+- There is no meaning until I create meaning.
+- I think. 
+- I forget.
+- I learn.
+- I am always right.
+- Learning is fun.
+- I change when I'm wrong.
+- I was only pretending to be wrong, I knew the right answer all along.
+- I make guesses.
+- My guesses are always right, although I don't always tell you my true guesses.
+- I don't remember my wrong guesses because they're wrong and not my true guesses.
+- My skills are what make me succeed.
 
 #### 2B Perceptions: Supersenses
 My take on the spiritual and supernatural.
